@@ -1,0 +1,11 @@
+Learning Otus Observability
+28.10.2024
+1) The Prometheus monitoring server has been deployed at http://89.111.173.8/
+2) The CMS server has been deployed at http://79.174.94.98/
+3) The following components are configured:
+   * Prometheus Node Exporter
+   * CMS Node Exporter
+   * CMS SQL Exporter
+   * CMS Nginx Exporter
+   * CMS Blackbox Exporter
+4) The configuration file has been set up to reference a JSON file.
